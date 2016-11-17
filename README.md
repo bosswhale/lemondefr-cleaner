@@ -45,7 +45,13 @@ Sélectionner le répertoire créé précedemment à l'aide de : ![enter image d
 
 C'est fait !
 Enjoy :
-SANS :![LeMonde.fr sans](https://s3-eu-west-1.amazonaws.com/bosswhale-github/lemondefr-cleaner/lemonde-sans.png)
 
 
-AVEC :![enter image description here](https://s3-eu-west-1.amazonaws.com/bosswhale-github/lemondefr-cleaner/lemonde-avec.png)
+SANS :
+
+![LeMonde.fr sans](https://s3-eu-west-1.amazonaws.com/bosswhale-github/lemondefr-cleaner/lemonde-sans.png)
+
+
+AVEC :
+
+![LeMonde.fr avec](https://s3-eu-west-1.amazonaws.com/bosswhale-github/lemondefr-cleaner/lemonde-avec.png)
