@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "LeMonde cleaner",
+  "version": "0.1",
+  "description": "Une extension permettant de masquer les liens suggérés.",
+  "content_scripts": [
+    {
+      "matches": ["*://abonnes.lemonde.fr/*"],
+      "js": ["jquery.min.js","contentscript.js"]
+    }
+  ],
+  "permissions": ["activeTab"],
+  "short_name": "LMC"
+}
