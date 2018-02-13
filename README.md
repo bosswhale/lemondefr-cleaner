@@ -14,11 +14,15 @@ Motivation
 -------------
 Personnellement, lorsque je navigue sur le site du Monde, c'est essentiellement pour lire les articles. Il se trouve que j'ai constamment sous les yeux ce genre de publicité :
 ![Liens sponsorisés](https://s3-eu-west-1.amazonaws.com/bosswhale-github/lemondefr-cleaner/sites-suggeres.png)
+
+
 qui non seulement ne m'intéresse pas, mais sont carrément déplaisantes. Je vous laisse par exemple apprécier la photo et surtout le commentaire au milieu en haut.
 Etant abonné, je trouve insupportable de devoir supporter ces liens et images.
 
 Les commentaires de la part d'autres internautes :
 ![Merci Philippe !](https://s3-eu-west-1.amazonaws.com/bosswhale-github/lemondefr-cleaner/merci-philippe.png)
+
+
 Merci Philippe, c'était vraiment très intéressant ! ;-)
 
 Et enfin les suggestions de vidéos (qui n'ont souvent rien à voir avec l'article).

@@ -6,3 +6,4 @@ $("div.OUTBRAIN").hide();
 $("div#liste_reactions").hide();
 $("div#ultimedia_wrapper").hide();
 $("div#groupe_services").hide();
+$("div#lig_lemonde_article_premium_endarticle").hide();
